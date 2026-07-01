@@ -1,9 +1,10 @@
-
-<!--# Hi there, I'm Kings Pascal 👋
+# Hi there, I'm Kings Pascal 👋
 
 ## 💻 Software Engineer in Progress
 
-I'm passionate about building software that solves real-world problems. I'm currently learning, building projects, and documenting my journey as I grow into a Full-Stack Software Engineer.
+I'm an aspiring Software Engineer passionate about building real-world software solutions. I am continuously learning, building projects, and documenting my journey toward becoming a Full-Stack Software Engineer.
+
+---
 
 ## 🚀 Current Focus
 
@@ -13,18 +14,21 @@ I'm passionate about building software that solves real-world problems. I'm curr
 - 🔐 Cybersecurity
 - 🤖 Artificial Intelligence
 
-## 📚 Currently Learning
+---
+
+## 📚 Technologies I'm Learning
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 - Bootstrap
 - Tailwind CSS
 - React
 
 ### Backend
 - Python
+- Java
 - Node.js
 - Express.js
 
@@ -37,19 +41,44 @@ I'm passionate about building software that solves real-world problems. I'm curr
 - GitHub
 - VS Code
 
-## 🎯 2026 Goals
+---
 
-- Build real-world full-stack projects
+## 🎯 Current Goals
+
+- Build real-world Full-Stack projects
 - Complete my Software Development SIWES
-- Strengthen my problem-solving skills
-- Learn modern software engineering practices
-- Contribute to open-source projects
+- Improve problem-solving and DSA skills
+- Learn Software Engineering best practices
+- Contribute to Open Source
+- Build a strong developer portfolio
 
-## 📈 Philosophy
+---
+
+## 📈 My Learning Philosophy
 
 > Learn consistently.  
 > Build meaningful projects.  
+> Solve real-world problems.  
 > Share the journey.  
-> Grow every day. 🚀
+> Keep improving every day.
 
-Thanks for visiting my profile !
+---
+
+## 🌱 Currently Exploring
+
+- Software Engineering
+- Full-Stack Development
+- Cybersecurity Fundamentals
+- Artificial Intelligence
+- Clean Code
+- System Design
+
+---
+
+### 📫 Connect with Me
+
+- GitHub: https://github.com/kings-pascal
+
+---
+
+⭐ Thanks for visiting my profile!
