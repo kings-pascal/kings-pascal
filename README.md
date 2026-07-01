@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**kings-pascal/kings-pascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi there, I'm Kings Pascal 👋
 
-Here are some ideas to get you started:
+## 💻 Software Engineer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building software that solves real-world problems. I'm currently learning, building projects, and documenting my journey as I grow into a Full-Stack Software Engineer.
+
+## 🚀 Current Focus
+
+- 🌐 Web Development
+- 💻 Software Development
+- 🖥️ Computer Science
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+
+## 📚 Currently Learning
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+- React
+
+### Backend
+- Python
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🎯 2026 Goals
+
+- Build real-world full-stack projects
+- Complete my Software Development SIWES
+- Strengthen my problem-solving skills
+- Learn modern software engineering practices
+- Contribute to open-source projects
+
+## 📈 Philosophy
+
+> Learn consistently.  
+> Build meaningful projects.  
+> Share the journey.  
+> Grow every day. 🚀
+
+Thanks for visiting my profile !
